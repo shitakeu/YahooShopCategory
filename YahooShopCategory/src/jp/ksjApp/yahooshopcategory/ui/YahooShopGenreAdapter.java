@@ -2,17 +2,10 @@ package jp.ksjApp.yahooshopcategory.ui;
 
 import java.util.ArrayList;
 
-import jp.ksjApp.shopcategorycommon.R;
 import jp.ksjApp.yahooshopcategory.Const;
 import jp.ksjApp.yahooshopcategory.data.GenreData;
 import android.content.Context;
 import android.content.Intent;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.view.View.OnClickListener;
-import android.widget.BaseAdapter;
-import android.widget.TextView;
 
 /**
  * 
